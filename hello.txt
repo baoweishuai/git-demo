@@ -1,2 +1,3 @@
-hello git
-你好，欢迎来到git学习
+hello giit
+欢迎欢迎，热烈欢迎
+欢迎你们来到git学习
