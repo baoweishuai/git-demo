@@ -1,5 +1,8 @@
 server:
   port: 9527
+  
+config:
+  info: "欢迎来到配置中心"
 
 spring:
   application:
